@@ -13,10 +13,15 @@
     border: 5px solid black;
 }
 
+#button.hover {
+    background-color: rgb(243, 243, 169);
+}
+
 
 .a {
     animation:a 500ms;
 }
+
 
 
 @keyframes a {
