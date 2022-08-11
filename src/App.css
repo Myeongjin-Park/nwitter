@@ -1,6 +1,10 @@
 .grid {
     padding:20px;
     display:grid;
+
+
+
+    
     width:60vw;
     height:60vh;
     gap:10px;
